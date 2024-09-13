@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Security.Cryptography;
 
 
-/*
 // Calculadora Resuelve si el Numero ingresado es par o impar
 
 Console.WriteLine("Ingrese un Numero Entero");
@@ -71,4 +70,3 @@ for (int i = 1; i <= 200; i++)
     Console.ResetColor();
 }
     
-*/
